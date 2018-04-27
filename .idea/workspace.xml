@@ -26,8 +26,8 @@
       <file leaf-file-name="init.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/init.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="437">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -76,8 +76,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js1/init.js" />
-        <option value="$PROJECT_DIR$/html/init.html" />
         <option value="$PROJECT_DIR$/css1/init.css" />
+        <option value="$PROJECT_DIR$/html/init.html" />
       </list>
     </option>
   </component>
@@ -323,15 +323,15 @@
       <workItem from="1524726722106" duration="467000" />
       <workItem from="1524727443437" duration="30000" />
       <workItem from="1524727520491" duration="13522000" />
-      <workItem from="1524791640980" duration="948000" />
+      <workItem from="1524791640980" duration="981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15263000" />
+    <option name="totallyTimeSpent" value="15296000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="0" width="1938" height="1039" extended-state="1" />
+    <frame x="1911" y="0" width="1938" height="1039" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21302083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -512,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/init.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="437">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
