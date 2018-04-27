@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+#nav{
+    height:85px;
+    width:100%;
+
+    border-bottom:1px solid lightgrey ;
+
+}
+.logo-left{
+    line-height:100px;
+    margin:auto 0;
+    position:relative;
+
+    float: left;
+}
+.color{
+    background-color: aliceblue;
+}
+.size {
+    height: 40px;
+
+}
+#search-form{
+    width:340px;
+    float: left;
+}
+#search-div {
+    float: left;
+    
+}
+#img-search{
+    cursor: hand; width:10%; height: 37%; display: inline-block;position:relative; top:26px;
+
+}
+.nav-div{
+
+    float: left;
+
+    line-height: 50%;
+    font-size:21px;
+    position: relative;
+    top:23px;
+    left:20px;
+}
+.nav-pills a:hover{
+    background-color: cyan;
+    color: chartreuse;
+}
+.nav-div a{
+
+  font-family: 微软雅黑;
+    color: #ff0a29;
+
+}
+
+button{
+    float: right;
+}
