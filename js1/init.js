@@ -8,6 +8,8 @@ $(document).ready(function () {
     });
     $("#img-search").mousedown(function () {
         $("#img-search").attr("src","../img/search4.png");
+
+
     });
     $("#person").mouseover(function () {
         $("#person").attr("src","../img/person2.png");
@@ -27,6 +29,8 @@ $(document).ready(function () {
     $("#shezhi").mouseout(function () {
         $("#shezhi").attr("src","../img/shezhi.png");
     });
+
+
 });
 function formsubmit(){
    /* $("body").css("background-color","red")*/
