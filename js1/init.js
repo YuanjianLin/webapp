@@ -1,4 +1,5 @@
 $(document).ready(function () {
+
     $("#img-search").mouseover(function () {
           $("#img-search").attr("src","../img/search3.png");
     });
