@@ -47,17 +47,18 @@
     top:23px;
     left:20px;
 }
-.nav-pills a:hover{
-    background-color: cyan;
-    color: chartreuse;
-}
-.nav-div a{
+
+.nav-pills a{
 
   font-family: 微软雅黑;
     color: #ff0a29;
 
 }
+.nav-pills li a:hover{
+    background-color: #ff8a9e!important;
+    color: #ffffff;
 
+}
 button{
     float: right;
 }
