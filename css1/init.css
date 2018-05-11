@@ -54,7 +54,7 @@
     color: #ff0a29;
 
 }
-.nav-pills li a:hover{
+.nav-pills li a[class*=info]:hover{
     background-color: #ff8a9e!important;
     color: #ffffff;
 
@@ -62,3 +62,18 @@
 button{
     float: right;
 }
+#person {
+   width: 56%;
+    height:35%;
+
+}
+.person-div {
+    float: left;
+    position: relative;
+    left: 8px;
+    top:3px;
+}
+/*
+#person-id:hover{
+    background-color: #5bc0de!important;
+}*/

@@ -7,7 +7,13 @@ $(document).ready(function () {
     });
     $("#img-search").mousedown(function () {
         $("#img-search").attr("src","../img/search4.png");
-    })
+    });
+    $("#person").mouseover(function () {
+        $("#person").attr("src","../img/person2.png");
+    });
+    $("#person").mouseout(function () {
+        $("#person").attr("src","../img/person.png");
+    });
 });
 function formsubmit(){
    /* $("body").css("background-color","red")*/
