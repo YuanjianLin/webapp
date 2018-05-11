@@ -14,6 +14,18 @@ $(document).ready(function () {
     $("#person").mouseout(function () {
         $("#person").attr("src","../img/person.png");
     });
+    $("#message").mouseover(function () {
+        $("#message").attr("src","../img/message2.png");
+    });
+    $("#message").mouseout(function () {
+        $("#message").attr("src","../img/message.png");
+    });
+    $("#shezhi").mouseover(function () {
+        $("#shezhi").attr("src","../img/shezhi2.png");
+    });
+    $("#shezhi").mouseout(function () {
+        $("#shezhi").attr("src","../img/shezhi.png");
+    });
 });
 function formsubmit(){
    /* $("body").css("background-color","red")*/
