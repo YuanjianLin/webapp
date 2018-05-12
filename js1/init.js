@@ -19,15 +19,27 @@ $(document).ready(function () {
     });
     $("#message").mouseover(function () {
         $("#message").attr("src","../img/message2.png");
+        $(".downdrop").css("display","block");
+
     });
     $("#message").mouseout(function () {
         $("#message").attr("src","../img/message.png");
+        $(".downdrop").css("display","none");
+    });
+    $(".downdrop").mouseover(function () {
+        $(".downdrop").css("display","block");
+    });
+    $(".downdrop").mouseout(function () {
+        $(".downdrop").css("display","none");
     });
     $("#shezhi").mouseover(function () {
         $("#shezhi").attr("src","../img/shezhi2.png");
+        $(".downdrop2").css("display","block");
+
     });
     $("#shezhi").mouseout(function () {
         $("#shezhi").attr("src","../img/shezhi.png");
+        $(".downdrop2").css("display","none");
     });
 
 
