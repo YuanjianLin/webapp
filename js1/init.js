@@ -41,7 +41,12 @@ $(document).ready(function () {
         $("#shezhi").attr("src","../img/shezhi.png");
         $(".downdrop2").css("display","none");
     });
-
+    $(".downdrop2").mouseover(function () {
+        $(".downdrop2").css("display","block");
+    });
+    $(".downdrop2").mouseout(function () {
+        $(".downdrop2").css("display","none");
+    });
 
 });
 function formsubmit(){
