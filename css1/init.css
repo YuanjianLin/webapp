@@ -118,7 +118,8 @@ button{
     margin: 20px;
 }
 .nav-right-class{
-    display: inline-block;
+    display: none;
+
 }
 .nav-right-class:hover .downdrop{
     display: block;
@@ -210,11 +211,95 @@ button{
  float: right;
     right:20px;
 }
-/*
-#person-id:hover{
-    background-color: #5bc0de!important;
-}*/
+.login {
+    position: relative;
+    left:700px;
+    padding: 10px;
+    top:-28px;
+}
+.login p{
+    color: grey;
+    font-size: 17px;
+    display: inline-block;
+    margin-left: 10px;
 
+}
+.login p a{
+    color: grey;
+}
+.login p a:hover{
+    font-family: 微软雅黑;
+    color: #ff0a29;
+     text-decoration: none;
 
+}
+#mymodal {
+    top:70px;
+}
 
+#login-modal{
 
+    width: 350px;
+}
+#button-login {
+    width: 300px;
+    position: relative;
+    right:12px;
+}
+#username{
+    top:10px;
+    border-radius: 5px;
+}
+#password{
+    border-radius: 5px;
+
+    top:20px;
+}
+#auto-login {
+    position: relative;
+    top:37px;
+}
+#content-modal{
+    height:156px;
+}
+#auto-login a{
+    color:gray;
+    float: right;
+    text-decoration: none;
+    font-family:微软雅黑;
+}
+#mymodal2 {
+    top:70px;
+}
+
+#register-modal{
+
+    width: 350px;
+}
+#button-register {
+    width: 300px;
+    position: relative;
+    right:12px;
+}
+#username2{
+    top:10px;
+    border-radius: 5px;
+}
+#password2{
+    border-radius: 5px;
+
+    top:20px;
+}
+#auto-register {
+    position: relative;
+    top:37px;
+}
+#content-modal2{
+    height:156px;
+}
+#auto-register a{
+    color:gray;
+    float: right;
+    text-decoration: none;
+    font-family:微软雅黑;
+}
